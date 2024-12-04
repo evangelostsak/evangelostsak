@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=evangelostsak&label=Profile%20views&color=0e75b6&style=flat" alt="evangelostsak" /> </p>
 
-- 🌱 I’m currently learning **SQL,Python, AWS**
+- 🌱 I’m currently learning **Python,OOP,Flask, SQL, AWS**
 
 - 👨‍💻 All of my projects are available at [https://github.com/evangelostsak](https://github.com/evangelostsak)
 
