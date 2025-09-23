@@ -26,3 +26,5 @@
 <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://cdn-icons-png.flaticon.com/512/919/919853.png" alt="docker" width="40" height="40"/> </a> <a href="https://www.terraform.io/" target="_blank" rel="noreferrer"> <img src="https://banner2.cleanpng.com/20180407/bte/avgt65ipf.webp" alt="terraform" width="40" height="40"/> </a> </p> 
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=evangelostsak&show_icons=true&locale=en&layout=compact&theme=radical" alt="evangelostsak" /></p>
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=evangelostsak&show_icons=true&theme=radical)
