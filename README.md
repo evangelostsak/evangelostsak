@@ -1,30 +1,86 @@
-<h1 align="center">Hi 👋, I'm Evangelos Tsakoudis</h1>
-<h3 align="center">A highly driven Cloud Engineer with a solid foundation in Python, AWS, and DevOps methodologies. Currently enhancing my expertise through a Software Engineering bootcamp at Masterschool, focusing on cloud computing, databases, and backend development. I possess a profound interest in designing scalable cloud solutions and am eager to utilize my technical acumen in real-world projects. My hands-on experience in cloud deployment and automation, demonstrated through personal projects available on GitHub, further underscores my capabilities.</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=evangelostsak&label=Profile%20views&color=0e75b6&style=flat" alt="evangelostsak" /> </p>
-
-- 🌱 I’m currently learning **AWS, Python, OOP, Docker, Terraform**
-
-- 👨‍💻 All of my projects are available at [https://github.com/evangelostsak](https://github.com/evangelostsak)
-
-- 💬 Ask me about **Python, Cloud**
-
-- 📫 How to reach me **baggtsak55@gmail.com**
-
-- ⚡ Fun fact **I am a car enthusiast!**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/evangelos-tsakoudis" target="blank"><img align="center" src="https://png.pngtree.com/element_our/png/20180827/linkedin-social-media-icon-png_71812.jpg" alt="evangelostsak" height="30" width="40" /></a>
-<a href="https://dev.to/evangelostsak" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="evangelostsak" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/evangelostsak" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="evangelostsak" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/evangelostsak" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="evangelostsak" height="30" width="40" /></a>
+<!-- Banner -->
+<h1 align="center">👋 Hey, I'm Evangelos</h1>
+<p align="center">
+  <em>Software Engineer | Cloud & DevSecOps Enthusiast | Lifelong Learner</em>
+</p>
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=evangelostsak&label=Profile%20views&color=0e75b6&style=flat" alt="evangelostsak" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://e7.pngegg.com/pngimages/509/951/png-clipart-flask-by-example-web-framework-python-bottle-bottle-text-logo-thumbnail.png" alt="flask" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> 
-<a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://cdn-icons-png.flaticon.com/512/919/919853.png" alt="docker" width="40" height="40"/> </a> <a href="https://www.terraform.io/" target="_blank" rel="noreferrer"> <img src="https://banner2.cleanpng.com/20180407/bte/avgt65ipf.webp" alt="terraform" width="40" height="40"/> </a> </p> 
+---
 
-<p><img align="left" src="https://github-readme-stats-kappa-ashy-93.vercel.app/api/top-langs?username=evangelostsak&show_icons=true&locale=en&layout=compact&theme=radical" alt="evangelostsak" /></p>
+## 🚀 Quick Intro
+- 🎓 Bootcamp graduate with focus on **Python, OOP, Flask, and Databases**.  
+- ☁️ Building expertise in **AWS Cloud, Terraform, and automation**.  
+- 🔐 Hands-on **DevSecOps internship** experience (cloud + automation + security).  
+- 🛠️ Expanding into **CI/CD pipelines** and **infrastructure testing** with **Go + Terratest**.  
+- 🎯 Currently preparing for **AWS Solutions Architect – Professional** certification.  
 
-![Anurag's GitHub stats](https://github-readme-stats-kappa-ashy-93.vercel.app/api?username=evangelostsak&show_icons=true&theme=radical)
+---
+
+## 🏅 Certifications
+<p align="left">
+  <img src="https://img.shields.io/badge/AWS%20Cloud%20Practitioner-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white"/>
+  <img src="https://img.shields.io/badge/AWS%20Solutions%20Architect%20Associate-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Learning-AWS%20Solutions%20Architect%20Professional-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white"/>
+</p>
+
+---
+
+## 🛠️ Tech Toolbox
+**Languages & Backend:**  
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white) 
+![Flask](https://img.shields.io/badge/-Flask-000000?style=flat&logo=flask&logoColor=white) 
+![SQL](https://img.shields.io/badge/-SQL-CC2927?style=flat&logo=microsoft-sql-server&logoColor=white) 
+![Go](https://img.shields.io/badge/-Go-00ADD8?style=flat&logo=go&logoColor=white)  
+
+**Cloud & DevOps:**  
+![AWS](https://img.shields.io/badge/-AWS-FF9900?style=flat&logo=amazonaws&logoColor=white) 
+![Terraform](https://img.shields.io/badge/-Terraform-7B42BC?style=flat&logo=terraform&logoColor=white) 
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white) 
+![GitHub Actions](https://img.shields.io/badge/-GitHub%20Actions-2088FF?style=flat&logo=github-actions&logoColor=white)  
+
+**Testing & Automation:**  
+![Terratest](https://img.shields.io/badge/-Terratest-00ADD8?style=flat&logo=go&logoColor=white)  
+![Manual Testing](https://img.shields.io/badge/-Manual%20Testing-007396?style=flat&logo=checkmarx&logoColor=white)  
+![Automation Testing](https://img.shields.io/badge/-Automation%20Testing-6DB33F?style=flat&logo=checkmarx&logoColor=white)  
+
+**Frontend & UI:**  
+![HTML](https://img.shields.io/badge/-HTML-E34F26?style=flat&logo=html5&logoColor=white) 
+![CSS](https://img.shields.io/badge/-CSS-1572B6?style=flat&logo=css3&logoColor=white) 
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=white) 
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat&logo=bootstrap&logoColor=white)  
+
+---
+
+## 📊 GitHub Analytics
+<div align="center">
+
+<img src="https://github-readme-stats-kappa-ashy-93.vercel.app/api/top-langs?username=evangelostsak&show_icons=true&locale=en&layout=compact&theme=radical" alt="evangelostsak" />
+<img src="https://github-readme-stats-kappa-ashy-93.vercel.app/api/top-langs/?username=evangelostsak&layout=compact&theme=radical&hide_border=false" height="180px"/>
+<br>
+<br>
+
+<img src="https://github-readme-streak-stats.herokuapp.com?user=evangelostsak&theme=github-dark&hide_border=true](https://github-readme-stats-kappa-ashy-93.vercel.app/api?username=evangelostsak&show_icons=true&theme=radical" height="180px"/>
+
+</div>
+
+---
+
+## 🏆 Trophies
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=evangelostsak&theme=radical&no-frame=false&row=1&column=6"/>
+</div>
+
+---
+
+## 🌐 Let’s Connect
+📌 Check out my [repositories](https://github.com/evangelostsak?tab=repositories)  
+💼 Find me on [LinkedIn](www.linkedin.com/in/evangelos-tsakoudis)  
+📩 Open to collaborations & discussions!  
+
+---
+
+<p align="center">  
+  <em>Thanks for visiting! 🚀 Keep building, keep learning.</em>  
+</p>
