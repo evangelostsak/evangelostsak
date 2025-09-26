@@ -1,7 +1,7 @@
 <!-- Banner -->
 <h1 align="center">👋 Hey, I'm Evangelos</h1>
 <p align="center">
-  <em>Software Engineer | Cloud & DevSecOps Enthusiast | Lifelong Learner</em>
+  <em>DevOps Engineer | Cloud & Automations Enthusiast | Lifelong Learner</em>
 </p>
 <p align="center">
 <img src="https://komarev.com/ghpvc/?username=evangelostsak&label=Profile%20views&color=0e75b6&style=flat" alt="evangelostsak" />
@@ -34,13 +34,17 @@
 ![Flask](https://img.shields.io/badge/-Flask-000000?style=flat&logo=flask&logoColor=white) 
 ![SQL](https://img.shields.io/badge/-SQL-CC2927?style=flat&logo=microsoft-sql-server&logoColor=white) 
 ![Go](https://img.shields.io/badge/-Go-00ADD8?style=flat&logo=go&logoColor=white) 
-![Database Management](https://img.shields.io/badge/-DBMS-003B57?style=flat&logo=databricks&logoColor=white) 
+![Database Management](https://img.shields.io/badge/-DBMS-003B57?style=flat&logo=databricks&logoColor=white)
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
+![SQLite](https://img.shields.io/badge/-SQLite-003B57?style=flat&logo=sqlite&logoColor=white)
 
 **Cloud & DevOps:**  
 ![AWS](https://img.shields.io/badge/-AWS-FF9900?style=flat&logo=amazonaws&logoColor=white) 
 ![Terraform](https://img.shields.io/badge/-Terraform-7B42BC?style=flat&logo=terraform&logoColor=white) 
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white) 
-![GitHub Actions](https://img.shields.io/badge/-GitHub%20Actions-2088FF?style=flat&logo=github-actions&logoColor=white)  
+![GitHub Actions](https://img.shields.io/badge/-GitHub%20Actions-2088FF?style=flat&logo=github-actions&logoColor=white) 
+![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat&logo=linux&logoColor=black)
 
 **Testing & Automation:**  
 ![Terratest](https://img.shields.io/badge/-Terratest-00ADD8?style=flat&logo=go&logoColor=white) 
@@ -56,7 +60,10 @@
 
 **Tools:**  
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
 ![Microsoft Office](https://img.shields.io/badge/-Microsoft%20Office-D83B01?style=flat&logo=microsoft-office&logoColor=white)
+![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=flat&logo=postman&logoColor=white)
+![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=flat&logo=arduino&logoColor=white)
 
 ---
 
