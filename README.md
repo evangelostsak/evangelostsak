@@ -83,12 +83,14 @@
 ## 📊 GitHub Analytics
 <div align="center">
 
-<img src="https://github-readme-stats-kappa-ashy-93.vercel.app/api/top-langs?username=evangelostsak&show_icons=true&locale=en&layout=compact&theme=radical" alt="evangelostsak" />
-<img src="https://github-readme-stats-kappa-ashy-93.vercel.app/api/top-langs/?username=evangelostsak&layout=compact&theme=radical&hide_border=false" height="180px"/>
+<img src="https://github-readme-stats-kappa-ashy-93.vercel.app/api/top-langs?username=evangelostsak&show_icons=true&locale=en&layout=compact&theme=radical" alt="evangelostsak" height="160" />    
+
+<img src="https://github-readme-stats-kappa-ashy-93.vercel.app/api?username=evangelostsak&show_icons=true&theme=radical" height="160" />
+
 <br>
 <br>
 
-<img src="https://github-readme-streak-stats.herokuapp.com?user=evangelostsak&theme=github-dark&hide_border=true](https://github-readme-stats-kappa-ashy-93.vercel.app/api?username=evangelostsak&show_icons=true&theme=radical" height="180px"/>
+<img src="https://github-readme-streak-stats.herokuapp.com?user=evangelostsak&theme=radical&hide_border=false]" height="180px"/>
 
 </div>
 
