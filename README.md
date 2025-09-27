@@ -111,5 +111,5 @@
 ---
 
 <p align="center">  
-  <em>Thanks for visiting! 🚀 Keep building, keep learning.</em>  
+  <em>Thanks for visiting! 🚀 Keep building, keep pushing.</em>  
 </p>
