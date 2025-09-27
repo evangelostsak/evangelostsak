@@ -28,6 +28,15 @@
 </a>
 </p>
 
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Bitcount+Grid+Double&size=15&duration=3000&pause=100&color=FFFFFF&center=true&vCenter=true&width=500&height=70&lines=Next+Milestone+.+.+." />    
+  <br>
+<a href="https://www.credly.com/org/amazon-web-services/badge/aws-certified-solutions-architect-professional" target="_blank">
+  <img src="https://images.credly.com/size/680x680/images/2d84e428-9078-49b6-a804-13c15383d0de/image.png" alt="AWS Certified Solutions Architect – Associate" height="120"/>
+</a>
+
+</p>
+
 
 ---
 
