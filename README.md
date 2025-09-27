@@ -100,7 +100,7 @@
 
 ## 🏆 Trophies
 <div align="center">
-  <img src="https://github-profile-trophy.screw-hand.vercel.app/?username=evangelostsak&theme=radical&column=-1&rank=SSS,SS,S,AAA,AA,A,B,C&no-frame=true&no-bg=true&margin-w=6&count_private=true&include_all_commits=true"/>
+  <img src="https://github-profile-trophy.screw-hand.vercel.app/?username=evangelostsak&theme=radical&column=-1&rank=SSS,SS,S,AAA,AA,A,B,C&no-frame=false&no-bg=true&margin-w=6&count_private=true&include_all_commits=true"/>
 </div>
 
 ---
