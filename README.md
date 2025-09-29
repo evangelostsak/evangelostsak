@@ -1,5 +1,6 @@
-<!-- Banner -->
-<h1 align="center">👋 Hey, I'm Evangelos</h1>
+<h1 align="center">
+      <img src="https://readme-typing-svg.herokuapp.com?font=Bitcount+Grid+Double&size=30&duration=4000&pause=500&color=FFFFFF&center=true&vCenter=true&width=550ß&height=70&lines=👋+Hey,+I'm+Evangelos+.+.+.;Welcome+to+my+Github+Profile" />
+</h1>
 <p align="center">
   <em>DevOps Engineer | Cloud & Automations Enthusiast | Lifelong Learner</em>
 </p>
