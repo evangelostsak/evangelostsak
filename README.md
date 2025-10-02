@@ -114,7 +114,9 @@
 ---
 
 ## 🌐 Let’s Connect
-📌 Check out my [repositories](https://github.com/evangelostsak?tab=repositories)  
+
+🌐 Check out my Portfolio: [Portfolio website](https://portfolio-template-cyan-mu.vercel.app)      
+📌 Check out my [Repositories](https://github.com/evangelostsak?tab=repositories)  
 💼 Find me on [LinkedIn](www.linkedin.com/in/evangelos-tsakoudis)  
 📩 Open to collaborations & discussions!  
 
