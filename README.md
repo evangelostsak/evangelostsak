@@ -10,15 +10,37 @@
 
 ---
 
+<div align="center">
+      
 ## 🚀 Quick Intro
-- 🎓 Bootcamp graduate with focus on **Python, OOP, Flask, and Databases**.  
-- ☁️ Building expertise in **AWS Cloud, Terraform, and automation**.  
-- 🔐 Hands-on **DevSecOps internship** experience (cloud + automation + security).  
-- 🛠️ Expanding into **CI/CD pipelines** and **infrastructure testing** with **Go + Terratest**.  
-- 🎯 Currently preparing for **AWS Solutions Architect – Professional** certification.  
+
+
+🎓 Bootcamp graduate with focus on **Python, OOP, Flask, Databases, Docker, Terraform and AWS**.  
+☁️ Further building expertise in **AWS Cloud, Terraform, and automation**.  
+🔐 Hands-on **DevSecOps internship** experience (cloud + automation + security).  
+🛠️ Expanding into **CI/CD pipelines** and **infrastructure testing** with **Go + Terratest**.  
+🎯 Currently preparing for **AWS Solutions Architect – Professional** certification.  
+
+</div>
 
 ---
 
+<div align="center">
+      
+## 🌐 Let’s Connect
+
+
+🌐 Check out my Portfolio: [Portfolio website](https://portfolio-template-cyan-mu.vercel.app)      
+📌 Check out my [Repositories](https://github.com/evangelostsak?tab=repositories)  
+💼 Find me on [LinkedIn](www.linkedin.com/in/evangelos-tsakoudis)  
+📩 Open to collaborations & discussions!  
+
+</div>
+
+---
+
+<div align="center">
+      
 ## 🏅 Certifications
 
 <table>
@@ -46,8 +68,12 @@
   </tr>
 </table>
 
+</div>
+
 ---
 
+<div align="center">
+      
 ## 🛠️ Tech Toolbox
 **Languages & Backend:**  
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
@@ -88,10 +114,13 @@
 ![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=flat&logo=postman&logoColor=white)
 ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=flat&logo=arduino&logoColor=white)
 
+</div>
+
 ---
 
-## 📊 GitHub Analytics
 <div align="center">
+      
+## 📊 GitHub Analytics
 
 <img src="https://github-readme-stats-kappa-ashy-93.vercel.app/api/top-langs?username=evangelostsak&show_icons=true&locale=en&layout=compact&theme=radical" alt="evangelostsak" height="160" />    
 
@@ -106,22 +135,19 @@
 
 ---
 
-## 🏆 Trophies
 <div align="center">
+      
+## 🏆 Trophies
+
   <img src="https://github-profile-trophy.screw-hand.vercel.app/?username=evangelostsak&theme=radical&column=-1&rank=SSS,SS,S,AAA,AA,A,B,C&no-frame=false&no-bg=true&margin-w=6&count_private=true&include_all_commits=true"/>
 </div>
 
 ---
 
-## 🌐 Let’s Connect
-
-🌐 Check out my Portfolio: [Portfolio website](https://portfolio-template-cyan-mu.vercel.app)      
-📌 Check out my [Repositories](https://github.com/evangelostsak?tab=repositories)  
-💼 Find me on [LinkedIn](www.linkedin.com/in/evangelos-tsakoudis)  
-📩 Open to collaborations & discussions!  
-
----
-
-<p align="center">  
-  <em>Thanks for visiting! 🚀 Keep building, keep pushing.</em>  
+<div align="center">
+<p>  
+      
+  <em>Thanks for visiting! 🚀 Keep building, keep pushing.</em> 
+  
 </p>
+</div>
