@@ -147,7 +147,7 @@
 <div align="center">
 <p>  
       
-  <em>Thanks for visiting! 🚀 Keep building, keep pushing.</em> 
+  <em>Thanks for visiting! 🚀 Keep commiting, Keep pushing.</em> 
   
 </p>
 </div>
