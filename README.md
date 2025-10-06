@@ -129,7 +129,7 @@
 <br>
 <br>
 
-<img src="https://github-readme-streak-stats.herokuapp.com?user=evangelostsak&theme=radical&hide_border=false]" height="180px"/>
+<img src="https://github-readme-streak-stats-pi-olive.vercel.app?user=evangelostsak&theme=radical&hide_border=false]" height="180px"/>
 
 </div>
 
