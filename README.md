@@ -4,6 +4,11 @@
 <p align="center">
   <em>DevSecOps Engineer | Cloud & Automations Enthusiast | Lifelong Learner</em>
 </p>
+
+---
+<p align="center">
+      DevSecOps Project Coordinator at <b>Webeet.io</b>
+      </p>
 <p align="center">
 <img src="https://komarev.com/ghpvc/?username=evangelostsak&label=Profile%20views&color=0e75b6&style=flat" alt="evangelostsak" />
 </p>
