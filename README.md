@@ -35,7 +35,7 @@
 ## 🙌 Let’s Connect
 
 
-🌐 Check out my [Portfolio](https://portfolio-template-cyan-mu.vercel.app)      
+🌐 Check out my [Portfolio](https://evangelostsak.com/)      
 📌 Check out my [Repositories](https://github.com/evangelostsak?tab=repositories)  
 💼 Find me on [LinkedIn](www.linkedin.com/in/evangelos-tsakoudis)  
 📩 Open to collaborations & discussions!  
