@@ -20,11 +20,11 @@
 ## 🚀 Quick Intro
 
 
-🎓 Bootcamp graduate with focus on **Python, OOP, Flask, Databases, Docker, Terraform and AWS**.  
-☁️ Further building expertise in **AWS Cloud, Terraform, and automation**.  
-🔐 Hands-on **DevSecOps internship** experience (cloud + automation + security).  
-🛠️ Expanding into **CI/CD pipelines** and **infrastructure testing** with **Go + Terratest**.  
-🎯 Currently preparing for **AWS Solutions Architect – Professional** certification.  
+🎓 Software Engineering bootcamp graduate with a strong foundation in Python, OOP, Flask, Databases, Docker, Terraform, and AWS
+☁️ DevSecOps Team Lead, designing and operating secure, cloud-native infrastructure on AWS
+🔐 Practical experience integrating security controls into cloud infrastructure and automation workflows
+🛠️ Building and maintaining CI/CD pipelines, infrastructure automation, and IaC testing using Go and Terratest
+🎯 Actively preparing for AWS Solutions Architect – Professional certification
 
 </div>
 
@@ -134,7 +134,7 @@
 <br>
 <br>
 
-<img src="https://github-readme-streak-stats-pi-olive.vercel.app?user=evangelostsak&theme=radical&hide_border=false]" height="180px"/>
+<img src="https://githubreadmestreakstats-sigma.vercel.app?user=evangelostsak&theme=radical&hide_border=false]" height="180px"/>
 
 </div>
 
