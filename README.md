@@ -60,16 +60,6 @@
         <img src="https://images.credly.com/size/220x220/images/0e284c3f-5164-4b21-8660-0d84737941bc/image.png" alt="AWS Certified Solutions Architect – Associate" height="120"/>
       </a>
     </td>
-    <td align="center">
-      <div align="center">
-      <img src="https://readme-typing-svg.herokuapp.com?font=Bitcount+Grid+Double&size=15&duration=3000&pause=100&color=FFFFFF&center=true&vCenter=true&width=250&height=50&lines=Next+Milestone+.+.+." />
-      </div>
-      <div align="center">
-      <a href="https://www.credly.com/org/amazon-web-services/badge/aws-certified-solutions-architect-professional" target="_blank">
-        <img src="https://images.credly.com/size/680x680/images/2d84e428-9078-49b6-a804-13c15383d0de/image.png" alt="AWS Certified Solutions Architect – Professional" height="120"/>
-      </a>
-      </div>
-    </td>
   </tr>
 </table>
 
