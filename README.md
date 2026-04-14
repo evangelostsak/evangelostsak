@@ -21,10 +21,9 @@
 
 
 🎓 Software Engineering bootcamp graduate with a strong foundation in Python, OOP, Flask, Databases, Docker, Terraform, and AWS      
-☁️ DevSecOps Team Lead, designing and operating secure, cloud-native infrastructure on AWS      
+☁️ DevSecOps Team Lead, designing and operating secure, cloud-native infrastructure on AWS and Open-Source self managed resources      
 🔐 Practical experience integrating security controls into cloud infrastructure and automation workflows      
-🛠️ Building and maintaining CI/CD pipelines, infrastructure automation, and IaC testing using Go and Terratest      
-🎯 Actively preparing for AWS Solutions Architect – Professional certification      
+🛠️ Building and maintaining CI/CD pipelines, infrastructure automation, IaC Testing + Bootstrapping with Ansible     
 
 </div>
 
@@ -83,7 +82,8 @@
 
 **Cloud & DevOps:**  
 ![AWS](https://img.shields.io/badge/-AWS-FF9900?style=flat&logo=amazonaws&logoColor=white) 
-![Terraform](https://img.shields.io/badge/-Terraform-7B42BC?style=flat&logo=terraform&logoColor=white) 
+![Terraform](https://img.shields.io/badge/-Terraform-7B42BC?style=flat&logo=terraform&logoColor=white)
+![Python](https://img.shields.io/badge/-Ansible-3776AB?style=flat&logo=ansible&logoColor=red)
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white) 
 ![GitHub Actions](https://img.shields.io/badge/-GitHub%20Actions-2088FF?style=flat&logo=github-actions&logoColor=white) 
 ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat&logo=linux&logoColor=black)
