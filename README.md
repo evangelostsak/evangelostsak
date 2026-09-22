@@ -19,8 +19,7 @@
       
 ## 🚀 Quick Intro
 
-
-🎓 Software Engineering bootcamp graduate with a strong foundation in Python, OOP, Flask, Databases, Docker, Terraform, and AWS      
+      
 ☁️ DevSecOps Team Lead, designing and operating secure, cloud-native infrastructure on AWS and Open-Source self managed resources      
 🔐 Practical experience integrating security controls into cloud infrastructure and automation workflows      
 🛠️ Building and maintaining CI/CD pipelines, infrastructure automation, IaC Testing + Bootstrapping with Ansible     
